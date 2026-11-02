@@ -1,0 +1,21 @@
+
+
+RumahSakitrazaq/
+├── index.php
+├── views/
+│   ├── Auth/
+│   │   └── login.php
+│   ├── Pasien/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   └── Kunjungan/
+│       ├── index.php
+│       ├── create.php
+│       ├── edit.php
+│       └── show.php
+└── proses/
+    ├── koneksi.php
+    ├── prosespasien.php
+    └── proseskunjungan.php
